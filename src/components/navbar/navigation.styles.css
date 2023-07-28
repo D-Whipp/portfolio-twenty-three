@@ -1,3 +1,12 @@
-.navigation-container {
-  color: royalblue;
+.navigation-container .nav-links {
+  margin-bottom: 4rem;
+}
+.navigation-container .nav-links .link {
+  color: #FCF304;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: 0.12rem;
+  margin: 0px 0.5rem;
+  text-decoration: none;
 }/*# sourceMappingURL=navigation.styles.css.map */
