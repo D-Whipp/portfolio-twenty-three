@@ -18,16 +18,17 @@
         background-size: cover;
         height: 100%;
         width: 15rem;
-        // margin-top: 1.1rem;
     }
 
     .about-text {
+        font-size: 0.9rem;
         line-height: 1.4;
         letter-spacing: 0.02rem;
     
         p {
             .text-headline {
                 color: #FCF304;
+                font-size: 1rem;
             }
         }
         

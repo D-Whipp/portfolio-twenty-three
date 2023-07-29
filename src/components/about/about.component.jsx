@@ -16,6 +16,7 @@ const About = () => {
                     and I earned an Associate's Degree in Applied
                     Science from Central New Mexico Community College.
                 </p>
+                <p><span className='text-headline'>I have experience with the following:</span></p>
                 <p>
                     <span className="text-headline">Front-End: </span>
                     HTML5, CSS3, JavaScript, Bootstrap, JQuery, and

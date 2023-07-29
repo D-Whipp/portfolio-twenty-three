@@ -17,11 +17,13 @@
   width: 15rem;
 }
 .about-container .about-text {
+  font-size: 0.9rem;
   line-height: 1.4;
   letter-spacing: 0.02rem;
 }
 .about-container .about-text p .text-headline {
   color: #FCF304;
+  font-size: 1rem;
 }
 .about-container .about-text p:nth-child(even) {
   margin: 1rem 0rem;
