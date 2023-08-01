@@ -130,10 +130,16 @@
     },
     {
         "name": "knights radiant list",
-        "imageUrl": "https://github.com/D-Whipp/knights-radiant-list/blob/main/assets/images/app-image.png?raw=true",
-        "githubRepository": "https://github.com/D-Whipp/blue-letter-boutique",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/knights-radiant.png?updatedAt=1690920858895",
         "deployedSite": "https://glittering-brigadeiros-85868e.netlify.app/",
         "technologyUsed": "stripe, react, javascript, sass, dotenv, google firebase, google authentication, imagekit.io, and netlify",
         "briefExplanation": "knights radiant list is a simple front end application that allows its users to keep track of warriors from the epic fantasy series: the stormlight archive."
+    },
+    {
+        "name": "tri-health",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Tri-Health.png?updatedAt=1690920858901",
+        "deployedSite": "https://d-whipp.github.io/tri-health-demosite/",
+        "technologyUsed": "HTML5, CSS3, javascript, and bootstrap 4",
+        "briefExplanation": "Welcome to Tri-Health! This is a website for a fictional healthcare company I created with help from a Registered Nurse."
     }
 ]
