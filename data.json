@@ -1,0 +1,131 @@
+[
+    {
+        "name": "horiseon code refactor",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-horiseon-project.png?updatedAt=1690419300668",
+        "githubRepository": "https://github.com/D-Whipp/horiseon-code-refactor",
+        "deployedSite": "deployedUrl",
+        "technologyUsed": "html5 and css3",
+        "relevantTopics": "refactoring code",
+        "briefExplanation": "I was given this project with the task of Refactoring the code. I went through the provided code and fixed broken links, made the code DRY, and fixed some css punctuation."
+    },
+    {
+        "name": "static porfolio",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/static-portfolio.png?updatedAt=1690590804481",
+        "githubRepository": "https://github.com/D-Whipp/static-portfolio",
+        "deployedSite": "https://d-whipp.github.io/static-portfolio/",
+        "technologyUsed": "html5 and css3",
+        "briefExplanation": "I was tasked with creating a static portfolio from scratch. Using newly acquired skills in HTML5 and CSS3 I build this site from scratch."
+    },
+    {
+        "name": "password generator",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-Password-Generator.png?updatedAt=1690419299986",
+        "githubRepository": "https://github.com/D-Whipp/js-password-generator",
+        "deployedSite": "https://d-whipp.github.io/js-password-generator/",
+        "technologyUsed": "html5, css3, and javascript",
+        "briefExplanation": "Here I was given the HTML and CSS and tasked with writing the JavaScript. Using Window Prompts, I wrote code that will interact with the user to create a random password."
+    },
+    {
+        "name": "work day scheduler",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-work-day-scheduler.png?updatedAt=1690419301776",
+        "githubRepository": "https://github.com/D-Whipp/work-day-scheduler",
+        "deployedSite": "https://d-whipp.github.io/work-day-scheduler/",
+        "technologyUsed": "html5, css3, and javascript",
+        "briefExplanation": "Here I built a scheduling app to help it's user's keep track of their busy day"
+    },
+    {
+        "name": "Camping Buddy",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-campingBuddyScreenshot.png?updatedAt=1690419300298",
+        "githubRepository": "https://github.com/lucawic/api-pro",
+        "deployedSite": "https://lucawic.github.io/api-pro/",
+        "technologyUsed": "html5, css3, javascript, materialize, dom, nps openweather, openlayer, pixabay, jquery, and json",
+        "briefExplanation": "This was our first group project, my responsibilities were creating the wire frame, researching a new technology to replace bootstrap, and creating the front-end."
+    },
+    {
+        "name": "readme generator",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-readme-gen.png?updatedAt=1690419301973",
+        "githubRepository": "https://github.com/D-Whipp/readme-generator",
+        "deployedSite": "requires installation",
+        "technologyUsed": "javascript, node, inquirer, and fs",
+        "briefExplanation": "Here I built a Node Application which uses Inquirer to prompt user input in the Terminal and FS to take the user input to generate a Readme.md file."
+    },
+    {
+        "name": "team profile generator",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-team-profile-generator-img.png?updatedAt=1690419301740",
+        "githubRepository": "repositoryUrl",
+        "deployedSite": "requires installation",
+        "technologyUsed": "javascript, node, jest, and inquirer",
+        "briefExplanation": "Using Node and Inquirer this Application interacts with the user in the Terminal. After answering the prompts this app will generate a profile for the team."
+    },
+    {
+        "name": "employee tracker",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-employee-tracker-img.png?updatedAt=1690419300040",
+        "githubRepository": "https://github.com/D-Whipp/employee-tracker",
+        "deployedSite": "requires installation",
+        "technologyUsed": "javascript, node, and sql",
+        "briefExplanation": "Here we have a Back End App written in JavaScript. Using Node in the Terminal we can interact with a SQL database to keep track of employees."
+    },
+    {
+        "name": "mvc tech blog",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-mvc-tech-blog.png?updatedAt=1690419300178",
+        "githubRepository": "https://github.com/D-Whipp/the-tech-blog",
+        "deployedSite": "heroku",
+        "technologyUsed": "HTML5, CSS3, JavaScript, Express, Handlebars, MySql2, Sequelize, Jest, and BCrypt.",
+        "briefExplanation": "Here I used the above technologies to build a Full Stack CMS style blog. You can create an account. Create and Delete your post as well. Still working on editing a post."
+    },
+    {
+        "name": "sports vibes",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-SportsVibes.png?updatedAt=1690419301647",
+        "githubRepository": "https://github.com/seanPatrickArnold/sports-vibes",
+        "deployedSite": "heroku",
+        "technologyUsed": "Sequelize, Express, mysql2, and handlebars",
+        "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website."
+    },
+    {
+        "name": "regex tutorial",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-regex-tut-img.png?updatedAt=1690419301921",
+        "githubRepository": "https://github.com/D-Whipp/regex-tutorial",
+        "deployedSite": "https://github.com/D-Whipp/regex-tutorial/blob/main/gist-template.md",
+        "technologyUsed": "gist",
+        "briefExplanation": "A Gist Tutorial with the Regex Topic: Matching HTML Tags."
+    },
+    {
+        "name": "budget tracker",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-budget-tracker-screenshot.png?updatedAt=1690419301988",
+        "githubRepository": "https://github.com/D-Whipp/budget-tracker",
+        "deployedSite": "heroku",
+        "technologyUsed": "",
+        "briefExplanation": "180 Words"
+    },
+    {
+        "name": "exampleName",
+        "imageUrl": "imageUrl",
+        "githubRepository": "repositoryUrl",
+        "deployedSite": "deployedUrl",
+        "technologyUsed": "listedTechnologies",
+        "briefExplanation": "180 Words"
+    },
+    {
+        "name": "exampleName",
+        "imageUrl": "imageUrl",
+        "githubRepository": "repositoryUrl",
+        "deployedSite": "deployedUrl",
+        "technologyUsed": "listedTechnologies",
+        "briefExplanation": "180 Words"
+    },
+    {
+        "name": "exampleName",
+        "imageUrl": "imageUrl",
+        "githubRepository": "repositoryUrl",
+        "deployedSite": "deployedUrl",
+        "technologyUsed": "listedTechnologies",
+        "briefExplanation": "180 Words"
+    },
+    {
+        "name": "exampleName",
+        "imageUrl": "imageUrl",
+        "githubRepository": "repositoryUrl",
+        "deployedSite": "deployedUrl",
+        "technologyUsed": "listedTechnologies",
+        "briefExplanation": "180 Words"
+    }
+]
