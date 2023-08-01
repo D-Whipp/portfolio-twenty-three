@@ -93,39 +93,47 @@
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-budget-tracker-screenshot.png?updatedAt=1690419301988",
         "githubRepository": "https://github.com/D-Whipp/budget-tracker",
         "deployedSite": "heroku",
-        "technologyUsed": "",
+        "technologyUsed": "Express, Mongoose, MongoDB, Javascript, and service worker",
         "briefExplanation": "180 Words"
     },
     {
-        "name": "exampleName",
-        "imageUrl": "imageUrl",
-        "githubRepository": "repositoryUrl",
-        "deployedSite": "deployedUrl",
-        "technologyUsed": "listedTechnologies",
+        "name": "book search engine",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-book-search-eng.png?updatedAt=1690419301946",
+        "githubRepository": "https://github.com/D-Whipp/book-search-engine",
+        "deployedSite": "heroku",
+        "technologyUsed": "MongoDB, Mongoose, Node, Express, and GraphQL",
+        "briefExplanation": "Given the HTML and CSS as starter code, I was tasked with writing the controllers for the Back End of this application."
+    },
+    {
+        "name": "star talk",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-px-star-talk.png?updatedAt=1690419301568",
+        "githubRepository": "https://github.com/D-Whipp/star-talk",
+        "deployedSite": "heroku",
+        "technologyUsed": "MongoDB, Mongoose, Express, React, and GraphQL",
         "briefExplanation": "180 Words"
     },
     {
-        "name": "exampleName",
-        "imageUrl": "imageUrl",
-        "githubRepository": "repositoryUrl",
-        "deployedSite": "deployedUrl",
-        "technologyUsed": "listedTechnologies",
-        "briefExplanation": "180 Words"
+        "name": "Puppy Farm",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-puppy-farm-screenshot.png?updatedAt=1690419300250",
+        "githubRepository": "https://github.com/D-Whipp/puppy-farm/tree/main/puppy-farm",
+        "deployedSite": "download",
+        "technologyUsed": "HTML5, CSS3, Javascript, Javascript Routes, and Node.js",
+        "briefExplanation": "Puppy Farm is a Back End Web Application where users can see some basic information on a handful of pups and visit their wiki page if they wish."
     },
     {
-        "name": "exampleName",
-        "imageUrl": "imageUrl",
-        "githubRepository": "repositoryUrl",
-        "deployedSite": "deployedUrl",
-        "technologyUsed": "listedTechnologies",
-        "briefExplanation": "180 Words"
+        "name": "blue letter boutique",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Blue-Letter-Boutique.png?updatedAt=1690860215013",
+        "githubRepository": "https://github.com/D-Whipp/blue-letter-boutique",
+        "deployedSite": "https://glittering-brigadeiros-85868e.netlify.app/",
+        "technologyUsed": "stripe, react, javascript, sass, dotenv, google firebase, google authentication, imagekit.io, and netlify",
+        "briefExplanation": "inspired by reddress.com, blue letter boutique is an e-commerce website where its users can login, select, and purchase clothing."
     },
     {
-        "name": "exampleName",
-        "imageUrl": "imageUrl",
-        "githubRepository": "repositoryUrl",
-        "deployedSite": "deployedUrl",
-        "technologyUsed": "listedTechnologies",
-        "briefExplanation": "180 Words"
+        "name": "knights radiant list",
+        "imageUrl": "https://github.com/D-Whipp/knights-radiant-list/blob/main/assets/images/app-image.png?raw=true",
+        "githubRepository": "https://github.com/D-Whipp/blue-letter-boutique",
+        "deployedSite": "https://glittering-brigadeiros-85868e.netlify.app/",
+        "technologyUsed": "stripe, react, javascript, sass, dotenv, google firebase, google authentication, imagekit.io, and netlify",
+        "briefExplanation": "knights radiant list is a simple front end application that allows its users to keep track of warriors from the epic fantasy series: the stormlight archive."
     }
 ]
