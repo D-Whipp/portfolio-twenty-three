@@ -12,8 +12,20 @@ const Navigation = () => {
                 <Link className="link" to="/pages/projects">
                     Projects
                 </Link>
-                <Link className="link">Github</Link>
-                <Link className="link">LinkedIn</Link>
+                <Link
+                    className="link"
+                    to="https://github.com/D-Whipp"
+                    target="_blank"
+                >
+                    Github
+                </Link>
+                <Link
+                    className="link"
+                    to="https://www.linkedin.com/in/david-w-079841213/"
+                    target="_blank"
+                >
+                    LinkedIn
+                </Link>
             </div>
         </div>
     );

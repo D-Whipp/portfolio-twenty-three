@@ -1,35 +1,35 @@
 [
     {
-        "name": "horiseon code refactor",
+        "name": "Horiseon Code Refactor",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-horiseon-project.png?updatedAt=1690419300668",
         "githubRepository": "https://github.com/D-Whipp/horiseon-code-refactor",
-        "deployedSite": "deployedUrl",
+        "deployedSite": "https://d-whipp.github.io/horiseon-code-refactor/",
         "technologyUsed": "html5 and css3",
         "relevantTopics": "refactoring code",
-        "briefExplanation": "I was given this project with the task of Refactoring the code. I went through the provided code and fixed broken links, made the code DRY, and fixed some css punctuation."
+        "briefExplanation": "I was given this project with the task of Refactoring the code. I went through the provided code and fixed broken links, made the code DRY, and fixed some CSS punctuation."
     },
     {
-        "name": "static porfolio",
+        "name": "Static Porfolio",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/static-portfolio.png?updatedAt=1690590804481",
         "githubRepository": "https://github.com/D-Whipp/static-portfolio",
         "deployedSite": "https://d-whipp.github.io/static-portfolio/",
-        "technologyUsed": "html5 and css3",
-        "briefExplanation": "I was tasked with creating a static portfolio from scratch. Using newly acquired skills in HTML5 and CSS3 I build this site from scratch."
+        "technologyUsed": "HTML5 and CSS3",
+        "briefExplanation": "I was tasked with creating a static portfolio from scratch. Using newly acquired skills in HTML5 and CSS3 I built this site from scratch."
     },
     {
-        "name": "password generator",
+        "name": "Password Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-Password-Generator.png?updatedAt=1690419299986",
         "githubRepository": "https://github.com/D-Whipp/js-password-generator",
         "deployedSite": "https://d-whipp.github.io/js-password-generator/",
-        "technologyUsed": "html5, css3, and javascript",
-        "briefExplanation": "Here I was given the HTML and CSS and tasked with writing the JavaScript. Using Window Prompts, I wrote code that will interact with the user to create a random password."
+        "technologyUsed": "HTML5, CSS3, and Javascript",
+        "briefExplanation": "Here I was given the HTML and CSS and tasked with writing the JavaScript. Using Window Prompts, I wrote code that will interact with the user to generate a random password."
     },
     {
-        "name": "work day scheduler",
+        "name": "Work Day Scheduler",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-work-day-scheduler.png?updatedAt=1690419301776",
         "githubRepository": "https://github.com/D-Whipp/work-day-scheduler",
         "deployedSite": "https://d-whipp.github.io/work-day-scheduler/",
-        "technologyUsed": "html5, css3, and javascript",
+        "technologyUsed": "HTML5, CSS3, and Javascript",
         "briefExplanation": "Here I built a scheduling app to help it's user's keep track of their busy day"
     },
     {
@@ -37,67 +37,67 @@
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-campingBuddyScreenshot.png?updatedAt=1690419300298",
         "githubRepository": "https://github.com/lucawic/api-pro",
         "deployedSite": "https://lucawic.github.io/api-pro/",
-        "technologyUsed": "html5, css3, javascript, materialize, dom, nps openweather, openlayer, pixabay, jquery, and json",
-        "briefExplanation": "This was our first group project, my responsibilities were creating the wire frame, researching a new technology to replace bootstrap, and creating the front-end."
+        "technologyUsed": "HTML5, CSS3, Javascript, Materialize, DOM, NPS Openweather, Openlayer, Pixabay, JQuery, and JSON",
+        "briefExplanation": "This was our first group project, my responsibilities were creating the wire frame, researching a new technology to replace bootstrap, and creating the Front-End."
     },
     {
-        "name": "readme generator",
+        "name": "Readme Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-readme-gen.png?updatedAt=1690419301973",
         "githubRepository": "https://github.com/D-Whipp/readme-generator",
-        "deployedSite": "requires installation",
-        "technologyUsed": "javascript, node, inquirer, and fs",
+        "deployedSite": "This app requires installation",
+        "technologyUsed": "Javascript, Node.js, Inquirer, and FS",
         "briefExplanation": "Here I built a Node Application which uses Inquirer to prompt user input in the Terminal and FS to take the user input to generate a Readme.md file."
     },
     {
-        "name": "team profile generator",
+        "name": "Team Profile Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-team-profile-generator-img.png?updatedAt=1690419301740",
-        "githubRepository": "repositoryUrl",
-        "deployedSite": "requires installation",
-        "technologyUsed": "javascript, node, jest, and inquirer",
+        "githubRepository": "https://github.com/D-Whipp/team-profile-generator",
+        "deployedSite": "This app requires installation",
+        "technologyUsed": "Javascript, Node.js, Jest, and Inquirer",
         "briefExplanation": "Using Node and Inquirer this Application interacts with the user in the Terminal. After answering the prompts this app will generate a profile for the team."
     },
     {
-        "name": "employee tracker",
+        "name": "Employee Tracker",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-employee-tracker-img.png?updatedAt=1690419300040",
         "githubRepository": "https://github.com/D-Whipp/employee-tracker",
-        "deployedSite": "requires installation",
-        "technologyUsed": "javascript, node, and sql",
+        "deployedSite": "This app requires installation",
+        "technologyUsed": "Javascript, Node.js, and SQL",
         "briefExplanation": "Here we have a Back End App written in JavaScript. Using Node in the Terminal we can interact with a SQL database to keep track of employees."
     },
     {
-        "name": "mvc tech blog",
+        "name": "MVC Tech Blog",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-mvc-tech-blog.png?updatedAt=1690419300178",
         "githubRepository": "https://github.com/D-Whipp/the-tech-blog",
         "deployedSite": "heroku",
         "technologyUsed": "HTML5, CSS3, JavaScript, Express, Handlebars, MySql2, Sequelize, Jest, and BCrypt.",
-        "briefExplanation": "Here I used the above technologies to build a Full Stack CMS style blog. You can create an account. Create and Delete your post as well. Still working on editing a post."
+        "briefExplanation": "Here I used the above technologies to build a Full Stack CMS style blog. You can create an account. Create and Delete your post as well."
     },
     {
-        "name": "sports vibes",
+        "name": "Sports Vibes",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-SportsVibes.png?updatedAt=1690419301647",
         "githubRepository": "https://github.com/seanPatrickArnold/sports-vibes",
         "deployedSite": "heroku",
-        "technologyUsed": "Sequelize, Express, mysql2, and handlebars",
-        "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website."
+        "technologyUsed": "Sequelize, Express, MySQL2, and Handlebars",
+        "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website, researching and implenting a technology outside of what was taught in Bootcamp."
     },
     {
-        "name": "regex tutorial",
+        "name": "Regex Tutorial",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-regex-tut-img.png?updatedAt=1690419301921",
         "githubRepository": "https://github.com/D-Whipp/regex-tutorial",
         "deployedSite": "https://github.com/D-Whipp/regex-tutorial/blob/main/gist-template.md",
-        "technologyUsed": "gist",
+        "technologyUsed": "Gist",
         "briefExplanation": "A Gist Tutorial with the Regex Topic: Matching HTML Tags."
     },
     {
-        "name": "budget tracker",
+        "name": "Budget Tracker",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-budget-tracker-screenshot.png?updatedAt=1690419301988",
         "githubRepository": "https://github.com/D-Whipp/budget-tracker",
         "deployedSite": "heroku",
-        "technologyUsed": "Express, Mongoose, MongoDB, Javascript, and service worker",
-        "briefExplanation": "180 Words"
+        "technologyUsed": "Express, Mongoose, MongoDB, Javascript, and Service Worker",
+        "briefExplanation": "A progressive web application to help it's users keep track of their budget. This app was created to serve two purposes: A - to help it's users with their finances and B - to help me gain a better understanding of PWA's, Service Workers, Persisting Data, and MongoDB."
     },
     {
-        "name": "book search engine",
+        "name": "Book Search Engine",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-book-search-eng.png?updatedAt=1690419301946",
         "githubRepository": "https://github.com/D-Whipp/book-search-engine",
         "deployedSite": "heroku",
@@ -105,12 +105,12 @@
         "briefExplanation": "Given the HTML and CSS as starter code, I was tasked with writing the controllers for the Back End of this application."
     },
     {
-        "name": "star talk",
+        "name": "Star Talk",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-px-star-talk.png?updatedAt=1690419301568",
         "githubRepository": "https://github.com/D-Whipp/star-talk",
         "deployedSite": "heroku",
         "technologyUsed": "MongoDB, Mongoose, Express, React, and GraphQL",
-        "briefExplanation": "180 Words"
+        "briefExplanation": "An application made for the Outer Space enthusiast. Here at Star Talk you can express you opinions of everything Outer Space related. From Celestial Bodies to Pop Culture (as long as it's Space related) you can create posts talking about what interests you in Outer Space."
     },
     {
         "name": "Puppy Farm",
@@ -121,7 +121,7 @@
         "briefExplanation": "Puppy Farm is a Back End Web Application where users can see some basic information on a handful of pups and visit their wiki page if they wish."
     },
     {
-        "name": "blue letter boutique",
+        "name": "Blue Letter Boutique",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Blue-Letter-Boutique.png?updatedAt=1690860215013",
         "githubRepository": "https://github.com/D-Whipp/blue-letter-boutique",
         "deployedSite": "https://glittering-brigadeiros-85868e.netlify.app/",
@@ -129,17 +129,17 @@
         "briefExplanation": "inspired by reddress.com, blue letter boutique is an e-commerce website where its users can login, select, and purchase clothing."
     },
     {
-        "name": "knights radiant list",
+        "name": "Knights Radiant List",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/knights-radiant.png?updatedAt=1690920858895",
         "deployedSite": "https://glittering-brigadeiros-85868e.netlify.app/",
-        "technologyUsed": "stripe, react, javascript, sass, dotenv, google firebase, google authentication, imagekit.io, and netlify",
+        "technologyUsed": "Stripe, React, Javascript, Sass, Dotenv, Google Firebase, Google Authentication, imagekit.io, and Netlify",
         "briefExplanation": "knights radiant list is a simple front end application that allows its users to keep track of warriors from the epic fantasy series: the stormlight archive."
     },
     {
-        "name": "tri-health",
+        "name": "Tri-Health",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Tri-Health.png?updatedAt=1690920858901",
         "deployedSite": "https://d-whipp.github.io/tri-health-demosite/",
-        "technologyUsed": "HTML5, CSS3, javascript, and bootstrap 4",
-        "briefExplanation": "Welcome to Tri-Health! This is a website for a fictional healthcare company I created with help from a Registered Nurse."
+        "technologyUsed": "HTML5, CSS3, Javascript, and Bootstrap 4",
+        "briefExplanation": "Welcome to Tri-Health! This is a website I created for a fictional healthcare company under the direction of a Registered Nurse."
     }
 ]

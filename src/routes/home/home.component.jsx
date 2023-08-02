@@ -8,7 +8,9 @@ const Home = () => {
         <>
             <Navigation />
             <About />
-            <div className="home-container">Home is listening</div>
+            <div className="home-container">
+                Email me: <span className='white-text'>dwhipp88@gmail.com</span>
+            </div>
         </>
     );
 };
