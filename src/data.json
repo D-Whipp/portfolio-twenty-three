@@ -1,14 +1,15 @@
 [
     {
+        "id": "1",
         "name": "Horiseon Code Refactor",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-horiseon-project.png?updatedAt=1690419300668",
         "githubRepository": "https://github.com/D-Whipp/horiseon-code-refactor",
         "deployedSite": "https://d-whipp.github.io/horiseon-code-refactor/",
         "technologyUsed": "html5 and css3",
-        "relevantTopics": "refactoring code",
         "briefExplanation": "I was given this project with the task of Refactoring the code. I went through the provided code and fixed broken links, made the code DRY, and fixed some CSS punctuation."
     },
     {
+        "id": "2",
         "name": "Static Porfolio",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/static-portfolio.png?updatedAt=1690590804481",
         "githubRepository": "https://github.com/D-Whipp/static-portfolio",
@@ -17,6 +18,7 @@
         "briefExplanation": "I was tasked with creating a static portfolio from scratch. Using newly acquired skills in HTML5 and CSS3 I built this site from scratch."
     },
     {
+        "id": "3",
         "name": "Password Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-Password-Generator.png?updatedAt=1690419299986",
         "githubRepository": "https://github.com/D-Whipp/js-password-generator",
@@ -25,6 +27,7 @@
         "briefExplanation": "Here I was given the HTML and CSS and tasked with writing the JavaScript. Using Window Prompts, I wrote code that will interact with the user to generate a random password."
     },
     {
+        "id": "4",
         "name": "Work Day Scheduler",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-work-day-scheduler.png?updatedAt=1690419301776",
         "githubRepository": "https://github.com/D-Whipp/work-day-scheduler",
@@ -33,6 +36,7 @@
         "briefExplanation": "Here I built a scheduling app to help it's user's keep track of their busy day"
     },
     {
+        "id": "5",
         "name": "Camping Buddy",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-campingBuddyScreenshot.png?updatedAt=1690419300298",
         "githubRepository": "https://github.com/lucawic/api-pro",
@@ -41,6 +45,7 @@
         "briefExplanation": "This was our first group project, my responsibilities were creating the wire frame, researching a new technology to replace bootstrap, and creating the Front-End."
     },
     {
+        "id": "6",
         "name": "Readme Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-readme-gen.png?updatedAt=1690419301973",
         "githubRepository": "https://github.com/D-Whipp/readme-generator",
@@ -49,6 +54,7 @@
         "briefExplanation": "Here I built a Node Application which uses Inquirer to prompt user input in the Terminal and FS to take the user input to generate a Readme.md file."
     },
     {
+        "id": "7",
         "name": "Team Profile Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-team-profile-generator-img.png?updatedAt=1690419301740",
         "githubRepository": "https://github.com/D-Whipp/team-profile-generator",
@@ -57,6 +63,7 @@
         "briefExplanation": "Using Node and Inquirer this Application interacts with the user in the Terminal. After answering the prompts this app will generate a profile for the team."
     },
     {
+        "id": "8",
         "name": "Employee Tracker",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-employee-tracker-img.png?updatedAt=1690419300040",
         "githubRepository": "https://github.com/D-Whipp/employee-tracker",
@@ -65,6 +72,7 @@
         "briefExplanation": "Here we have a Back End App written in JavaScript. Using Node in the Terminal we can interact with a SQL database to keep track of employees."
     },
     {
+        "id": "9",
         "name": "MVC Tech Blog",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-mvc-tech-blog.png?updatedAt=1690419300178",
         "githubRepository": "https://github.com/D-Whipp/the-tech-blog",
@@ -73,6 +81,7 @@
         "briefExplanation": "Here I used the above technologies to build a Full Stack CMS style blog. You can create an account. Create and Delete your post as well."
     },
     {
+        "id": "10",
         "name": "Sports Vibes",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-SportsVibes.png?updatedAt=1690419301647",
         "githubRepository": "https://github.com/seanPatrickArnold/sports-vibes",
@@ -81,6 +90,7 @@
         "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website, researching and implenting a technology outside of what was taught in Bootcamp."
     },
     {
+        "id": "11",
         "name": "Regex Tutorial",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-regex-tut-img.png?updatedAt=1690419301921",
         "githubRepository": "https://github.com/D-Whipp/regex-tutorial",
@@ -89,6 +99,7 @@
         "briefExplanation": "A Gist Tutorial with the Regex Topic: Matching HTML Tags."
     },
     {
+        "id": "12",
         "name": "Budget Tracker",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-budget-tracker-screenshot.png?updatedAt=1690419301988",
         "githubRepository": "https://github.com/D-Whipp/budget-tracker",
@@ -97,6 +108,7 @@
         "briefExplanation": "A progressive web application to help it's users keep track of their budget. This app was created to serve two purposes: A - to help it's users with their finances and B - to help me gain a better understanding of PWA's, Service Workers, Persisting Data, and MongoDB."
     },
     {
+        "id": "13",
         "name": "Book Search Engine",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-book-search-eng.png?updatedAt=1690419301946",
         "githubRepository": "https://github.com/D-Whipp/book-search-engine",
@@ -105,6 +117,7 @@
         "briefExplanation": "Given the HTML and CSS as starter code, I was tasked with writing the controllers for the Back End of this application."
     },
     {
+        "id": "14",
         "name": "Star Talk",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-px-star-talk.png?updatedAt=1690419301568",
         "githubRepository": "https://github.com/D-Whipp/star-talk",
@@ -113,6 +126,7 @@
         "briefExplanation": "An application made for the Outer Space enthusiast. Here at Star Talk you can express you opinions of everything Outer Space related. From Celestial Bodies to Pop Culture (as long as it's Space related) you can create posts talking about what interests you in Outer Space."
     },
     {
+        "id": "15",
         "name": "Puppy Farm",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-puppy-farm-screenshot.png?updatedAt=1690419300250",
         "githubRepository": "https://github.com/D-Whipp/puppy-farm/tree/main/puppy-farm",
@@ -121,6 +135,7 @@
         "briefExplanation": "Puppy Farm is a Back End Web Application where users can see some basic information on a handful of pups and visit their wiki page if they wish."
     },
     {
+        "id": "16",
         "name": "Blue Letter Boutique",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Blue-Letter-Boutique.png?updatedAt=1690860215013",
         "githubRepository": "https://github.com/D-Whipp/blue-letter-boutique",
@@ -129,6 +144,7 @@
         "briefExplanation": "inspired by reddress.com, blue letter boutique is an e-commerce website where its users can login, select, and purchase clothing."
     },
     {
+        "id": "17",
         "name": "Knights Radiant List",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/knights-radiant.png?updatedAt=1690920858895",
         "deployedSite": "https://glittering-brigadeiros-85868e.netlify.app/",
@@ -136,6 +152,7 @@
         "briefExplanation": "knights radiant list is a simple front end application that allows its users to keep track of warriors from the epic fantasy series: the stormlight archive."
     },
     {
+        "id": "18",
         "name": "Tri-Health",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Tri-Health.png?updatedAt=1690920858901",
         "deployedSite": "https://d-whipp.github.io/tri-health-demosite/",
