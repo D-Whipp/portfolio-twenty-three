@@ -1,4 +1,4 @@
-.infoCardContainer * {
+.info-card-container * {
     .link-item {
       color: white;
       text-decoration: none;
@@ -6,7 +6,7 @@
     }
 
     .link-item:visited {
-        color: #555566;
+        color: #fff;
     }
 
     .link-item:hover {
@@ -15,48 +15,89 @@
     }
 }
 
-.infoCardContainer {
+.info-card-container {
     display: flex;
     height: 200px;
     width: 200px;
+    overflow: hidden;
     border-radius: 100px;
     background: rgb(0,159,255);
-    background: linear-gradient(121deg, rgba(255,255,255,0) 13%, rgba(0,159,255,1) 100%);
+    background: linear-gradient(360deg, rgba(252,243,4,1) 55%, rgba(0,0,215,1) 85%);
     transition: all 500ms ease-in;
     transition-delay: 1s;
     margin: auto;
     margin-top: 100px;
     --margin-top: 100px;
+
+    #info-text {
+        margin-top: 2px;
+        
+        h2 {
+            color: #FCF304;
+            font-size: 1.5rem;
+            letter-spacing: 1px;
+        }
+        
+        h4 {
+            color: #FCF304;
+            font-size: 1rem;
+            text-transform: uppercase;
+            margin-top: 2px;
+            margin-left: 15px;    
+        }
+
+        .links-container {
+            color: #fff;
+            // text-decoration: underline;
+            font-weight: bold;
+            margin-top: 14px;
+
+            .link-item {
+                font-size: 1.1rem;
+                margin: 0;
+                
+            }
+        }
+
+        p {
+            color: royalblue;
+            font-weight: bold;
+            font-style: italic;
+            margin-top: 15px;
+        }
+    }
+
 }
 
-.infoCardContainer:hover {
+.info-card-container:hover {
     width: 500px;
-    border-radius: 100px 10px 100px 100px;
+    overflow: hidden;
+    border-radius: 100px 25px 50px 100px;
     transition: all 1s ease-out;
 }
 
-.infoCardContainer div {
+.info-card-container div {
     color: white;
     flex-shrink: 1;
     width: 100%;
     --background-color: green;
 }
 
-.infoCardContainer div * {
+.info-card-container div * {
     display: flex;
     --flex: inherit;
     overflow: hidden;
     text-overflow: hidden;
     --background-color: yellow;
     color: white;
-    white-space: nowrap;
+    white-space: break-spaces;
     width: 0;
     height: auto;
     transition: all 450ms ease-in;
     transition-delay: 1s;
 }
 
-.infoCardContainer:hover div * {
+.info-card-container:hover div * {
     --background-color: purple;
     display: flex;
     visibility: visible;
@@ -66,8 +107,8 @@
     height: auto;
 }
 
-.infoCardContainer #image-container,
-.infoCardContainer #image-container img {
+.info-card-container #image-container,
+.info-card-container #image-container img {
     --background-color: red;
     height: 200px;
     width: 200px;
@@ -77,9 +118,9 @@
     object-fit: cover;
 }
 
-.infoCardContainer #image-container img {
-    height: 180px;
-    width: 180px;
+.info-card-container #image-container img {
+    height: 200px;
+    width: 200px;
     transition: none;
     display: float;
     position: relative;
@@ -88,7 +129,7 @@
     padding: 0 0 0 0;
 }
 
-.infoCardContainer #infoText #links-container {
+.info-card-container #info-text #links-container {
     max-width: 60%;
     max-height: 30px;
 
@@ -100,7 +141,7 @@
     border-radius: 13px;
 }
 
-.infoCardContainer #infoText #links-container * {
+.info-card-container #info-text #links-container * {
     background-color: white;
     max-width: 30px;
     --margin: 0 1px 0 1px;

@@ -8,25 +8,26 @@ const ProjectCard = () => {
     console.log('data-card: ', data[0].name);
 
     return (
-        <div className="infoCardContainer">
+        <div className="info-card-container">
             <div id="image-container">
                 <img src={data[0].imageUrl} alt={data[0].name} />
             </div>
 
-            <div id="infoText">
-                <h2>Heading</h2>
-                <h4>Sub-Heading</h4>
+            <div id="info-text">
+                <h2>{data[0].name}</h2>
+                <h4>{data[0].technologyUsed}</h4>
                 <div className="links-container">
-                    <Link className="link-item" to="#">
-                        Link
+                    <Link
+                        className="link-item"
+                        to={`${data[0].deployedSite}`}
+                    >
+                        Website
                     </Link>
-                    <Link className="link-item" to="#">
-                        Link
-                    </Link>
-                    <Link className="link-item" to="#">
-                        Link
+                    <Link className="link-item" to={`${data[0].githubRepository}`}>
+                        Repository
                     </Link>
                 </div>
+                <p>{data[0].briefExplanation}</p>
             </div>
         </div>
     );
