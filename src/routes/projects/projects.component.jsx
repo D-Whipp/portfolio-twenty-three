@@ -3,7 +3,6 @@ import './projects.styles.css';
 import Navigation from '../navbar/navigation.component';
 import ProjectCard from '../../components/project-card/project-card.component';
 
-// const data = require('../../../data.json');
 import data from '../../data.json';
 
 const Projects = () => {
