@@ -2,4 +2,9 @@
     color: blue;
     width: 100%;
     text-align: center;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 10px;
+    row-gap: 50px;
 }

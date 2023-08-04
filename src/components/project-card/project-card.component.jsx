@@ -4,8 +4,15 @@ import data from '../../data.json';
 
 import { Link } from 'react-router-dom';
 
-const ProjectCard = () => {
-    console.log('data-card: ', data[0].name);
+const ProjectCard = (props) => {
+    // console.log('props: ', props.data[0].name);
+    const projectInfo = props.data;
+    // const {name} = props.data;
+    // console.log('name: ', name)
+    // const {name} = projectInfo;
+    console.log('projectInfo: ', projectInfo);
+    // console.log(Object.keys(projectInfo))
+
 
     return (
         <div className="info-card-container">
@@ -23,7 +30,10 @@ const ProjectCard = () => {
                     >
                         Website
                     </Link>
-                    <Link className="link-item" to={`${data[0].githubRepository}`}>
+                    <Link
+                        className="link-item"
+                        to={`${data[0].githubRepository}`}
+                    >
                         Repository
                     </Link>
                 </div>

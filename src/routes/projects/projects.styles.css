@@ -2,4 +2,9 @@
   color: blue;
   width: 100%;
   text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  -moz-column-gap: 10px;
+       column-gap: 10px;
+  row-gap: 50px;
 }/*# sourceMappingURL=projects.styles.css.map */
