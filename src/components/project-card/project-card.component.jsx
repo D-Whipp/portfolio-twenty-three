@@ -3,7 +3,6 @@ import './project-card.styles.css';
 import { Link } from 'react-router-dom';
 
 const ProjectCard = (props) => {
-
     return (
         <div className="info-card-container">
             <div id="image-container">
@@ -17,12 +16,14 @@ const ProjectCard = (props) => {
                     <Link
                         className="link-item"
                         to={`${props.projectSite}`}
+                        target="_blank"
                     >
                         Website
                     </Link>
                     <Link
                         className="link-item"
                         to={`${props.projectRepo}`}
+                        target="_blank"
                     >
                         Repository
                     </Link>
