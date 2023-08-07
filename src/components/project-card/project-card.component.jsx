@@ -30,7 +30,20 @@ const ProjectCard = (props) => {
                                 Repository
                             </Link>
                         </div>
-                        <p>{props.explanation}</p>
+                        <Link
+                            className="link-item"
+                            to={`${props.projectRepo}`}
+                            target="_blank"
+                        >
+                            <p>
+                                {props.explanation.length > 150
+                                    ? props.explanation.substring(
+                                          0,
+                                          150
+                                      ) + '...'
+                                    : props.explanation}
+                            </p>
+                        </Link>
                     </div>
                 </div>
             ) : (

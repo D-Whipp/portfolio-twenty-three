@@ -67,7 +67,7 @@
         "githubRepository": "https://github.com/D-Whipp/work-day-scheduler",
         "deployedSite": "https://d-whipp.github.io/work-day-scheduler/",
         "technologyUsed": "HTML5, CSS3, and Javascript",
-        "briefExplanation": "Here I built a scheduling app to help it's user's keep track of their busy day"
+        "briefExplanation": "Here I built a scheduling app to help it's user's keep track of their busy day."
     },
     {
         "id": "5",
@@ -121,7 +121,7 @@
         "githubRepository": "https://github.com/seanPatrickArnold/sports-vibes",
         "deployedSite": "heroku",
         "technologyUsed": "Sequelize, Express, MySQL2, and Handlebars",
-        "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website, researching and implenting a technology outside of what was taught in Bootcamp."
+        "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website, researching and implenting a new."
     },
     {
         "id": "11",
