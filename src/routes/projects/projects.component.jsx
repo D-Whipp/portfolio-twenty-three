@@ -21,8 +21,6 @@ const Projects = () => {
                         explanation={project.briefExplanation}
                     />
                 ))}
-
-                <ProjectCard />
             </div>
         </>
     );

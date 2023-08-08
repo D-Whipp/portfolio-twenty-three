@@ -83,8 +83,8 @@
         "name": "Readme Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-readme-gen.png?updatedAt=1690419301973",
         "githubRepository": "https://github.com/D-Whipp/readme-generator",
-        "deployedSite": "This app requires installation",
-        "technologyUsed": "Javascript, Node.js, Inquirer, and FS",
+        "deployedSite": "/pages/projects",
+        "technologyUsed": "Javascript, Node.js, Inquirer, and FS | THIS APP REQUIRES INSTALLATION",
         "briefExplanation": "Here I built a Node Application which uses Inquirer to prompt user input in the Terminal and FS to take the user input to generate a Readme.md file."
     },
     {
@@ -92,7 +92,7 @@
         "name": "Team Profile Generator",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-team-profile-generator-img.png?updatedAt=1690419301740",
         "githubRepository": "https://github.com/D-Whipp/team-profile-generator",
-        "deployedSite": "This app requires installation",
+        "deployedSite": "https://drive.google.com/file/d/13tnOfvYneeIL9KomaA4W4xHBM9QkhR8Z/view?usp=drive_link",
         "technologyUsed": "Javascript, Node.js, Jest, and Inquirer",
         "briefExplanation": "Using Node and Inquirer this Application interacts with the user in the Terminal. After answering the prompts this app will generate a profile for the team."
     },
@@ -101,7 +101,7 @@
         "name": "Employee Tracker",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-employee-tracker-img.png?updatedAt=1690419300040",
         "githubRepository": "https://github.com/D-Whipp/employee-tracker",
-        "deployedSite": "This app requires installation",
+        "deployedSite": "https://drive.google.com/file/d/1WrKE1dAuzXOLaLViU02xAnXPbrfcP4Nm/view?usp=drive_link",
         "technologyUsed": "Javascript, Node.js, and SQL",
         "briefExplanation": "Here we have a Back End App written in JavaScript. Using Node in the Terminal we can interact with a SQL database to keep track of employees."
     },
@@ -110,7 +110,7 @@
         "name": "MVC Tech Blog",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-mvc-tech-blog.png?updatedAt=1690419300178",
         "githubRepository": "https://github.com/D-Whipp/the-tech-blog",
-        "deployedSite": "heroku",
+        "deployedSite": "https://stark-reef-58838.herokuapp.com/",
         "technologyUsed": "HTML5, CSS3, JavaScript, Express, Handlebars, MySql2, Sequelize, Jest, and BCrypt.",
         "briefExplanation": "Here I used the above technologies to build a Full Stack CMS style blog. You can create an account. Create and Delete your post as well."
     },
@@ -119,7 +119,7 @@
         "name": "Sports Vibes",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-SportsVibes.png?updatedAt=1690419301647",
         "githubRepository": "https://github.com/seanPatrickArnold/sports-vibes",
-        "deployedSite": "heroku",
+        "deployedSite": "https://cryptic-hamlet-34193.herokuapp.com/",
         "technologyUsed": "Sequelize, Express, MySQL2, and Handlebars",
         "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website, researching and implenting a new."
     },
@@ -137,7 +137,7 @@
         "name": "Budget Tracker",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-budget-tracker-screenshot.png?updatedAt=1690419301988",
         "githubRepository": "https://github.com/D-Whipp/budget-tracker",
-        "deployedSite": "heroku",
+        "deployedSite": "https://intense-ravine-29652.herokuapp.com/",
         "technologyUsed": "Express, Mongoose, MongoDB, Javascript, and Service Worker",
         "briefExplanation": "A progressive web application to help it's users keep track of their budget. This app was created to serve two purposes: A - to help it's users with their finances and B - to help me gain a better understanding of PWA's, Service Workers, Persisting Data, and MongoDB."
     },
@@ -146,7 +146,7 @@
         "name": "Book Search Engine",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-book-search-eng.png?updatedAt=1690419301946",
         "githubRepository": "https://github.com/D-Whipp/book-search-engine",
-        "deployedSite": "heroku",
+        "deployedSite": "https://frozen-journey-26834.herokuapp.com/",
         "technologyUsed": "MongoDB, Mongoose, Node, Express, and GraphQL",
         "briefExplanation": "Given the HTML and CSS as starter code, I was tasked with writing the controllers for the Back End of this application."
     },
@@ -155,7 +155,7 @@
         "name": "Star Talk",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-px-star-talk.png?updatedAt=1690419301568",
         "githubRepository": "https://github.com/D-Whipp/star-talk",
-        "deployedSite": "heroku",
+        "deployedSite": "https://obscure-woodland-80927.herokuapp.com/",
         "technologyUsed": "MongoDB, Mongoose, Express, React, and GraphQL",
         "briefExplanation": "An application made for the Outer Space enthusiast. Here at Star Talk you can express you opinions of everything Outer Space related. From Celestial Bodies to Pop Culture (as long as it's Space related) you can create posts talking about what interests you in Outer Space."
     },
