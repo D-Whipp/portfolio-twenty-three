@@ -14,6 +14,13 @@ const Navigation = () => {
                 </Link>
                 <Link
                     className="link"
+                    to="https://docs.google.com/document/d/1Jy9tSvL4Vz3kQSIqHS7sitXvs6f2Jhyd17FMgox3Qpo/edit?usp=sharing"
+                    target="_blank"
+                >
+                    Resume
+                </Link>
+                <Link
+                    className="link"
                     to="https://github.com/D-Whipp"
                     target="_blank"
                 >

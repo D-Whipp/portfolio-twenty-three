@@ -13,6 +13,7 @@
         "name": "Tri-Health",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Tri-Health.png?updatedAt=1690920858901",
         "deployedSite": "https://d-whipp.github.io/tri-health-demosite/",
+        "githubRepository": "https://github.com/D-Whipp/tri-health-demosite",
         "technologyUsed": "HTML5, CSS3, Javascript, and Bootstrap 4",
         "briefExplanation": "Welcome to Tri-Health! This is a website I created for a fictional healthcare company under the direction of a Registered Nurse."
     },
