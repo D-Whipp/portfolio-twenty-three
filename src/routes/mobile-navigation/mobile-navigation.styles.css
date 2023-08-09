@@ -39,4 +39,13 @@
   color: gold;
   display: block;
   padding: 25px 0px 0px 0px;
+}
+
+@media screen and (min-width: 401px) {
+  .hamburger-menu-container {
+    display: none;
+  }
+  .mobile-navigation-container {
+    display: none;
+  }
 }/*# sourceMappingURL=mobile-navigation.styles.css.map */
