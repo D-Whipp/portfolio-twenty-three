@@ -8,3 +8,12 @@
     column-gap: 10px;
     row-gap: 50px;
 }
+
+// ***** RESPONSIVE STYLING *****
+@media  screen and (max-width: 770px) {
+    .projects-container {
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+}

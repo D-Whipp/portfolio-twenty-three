@@ -13,3 +13,10 @@
         }
     }
 }
+
+// ***** RESPONSIVE STYLING *****
+@media screen and (max-width: 400px) {
+    .navigation-container {
+        display: none;
+    }
+}

@@ -27,4 +27,14 @@
 }
 .about-container .about-text p:nth-child(even) {
   margin: 1rem 0rem;
+}
+
+@media screen and (max-width: 770px) {
+  .about-container {
+    display: block;
+  }
+  .about-container .avatar-image {
+    height: 300px;
+    margin: 0px auto;
+  }
 }/*# sourceMappingURL=about.styles.css.map */

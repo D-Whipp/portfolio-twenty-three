@@ -1,7 +1,10 @@
 .home-container {
   color: #FCF304;
+  font-weight: bold;
 }
 .home-container .white-text a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #FFF;
+  letter-spacing: 1px;
+  line-height: 1.4;
 }/*# sourceMappingURL=home.styles.css.map */

@@ -9,4 +9,10 @@
   letter-spacing: 0.12rem;
   margin: 0px 0.5rem;
   text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+  .navigation-container {
+    display: none;
+  }
 }/*# sourceMappingURL=navigation.styles.css.map */

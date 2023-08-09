@@ -37,3 +37,15 @@
         }
     }
 }
+
+// ***** RESPONSIVE STYLING *****
+@media screen and (max-width: 770px) {
+    .about-container {
+        display: block;
+
+        .avatar-image {
+            height: 300px;
+            margin: 0px auto;
+        }
+    }
+}
