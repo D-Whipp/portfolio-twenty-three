@@ -37,5 +37,6 @@
 
 .mobile-navigation-container .mobile-nav-link {
   color: gold;
+  display: block;
   padding: 25px 0px 0px 0px;
 }/*# sourceMappingURL=mobile-navigation.styles.css.map */

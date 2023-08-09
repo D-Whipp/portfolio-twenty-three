@@ -27,33 +27,36 @@ const MobileNavigation = () => {
                         : 'no-display'
                 }
             >
-                <div className="mobile-nav-link" to="/">
+                <Link className="mobile-nav-link" to="/">
                     About
-                </div>
-                <div className="mobile-nav-link" to="/pages/projects">
+                </Link>
+                <Link
+                    className="mobile-nav-link"
+                    to="/pages/projects"
+                >
                     Projects
-                </div>
-                <div
+                </Link>
+                <Link
                     className="mobile-nav-link"
                     to="https://docs.google.com/document/d/1Jy9tSvL4Vz3kQSIqHS7sitXvs6f2Jhyd17FMgox3Qpo/edit?usp=sharing"
                     target="_blank"
                 >
                     Resume
-                </div>
-                <div
+                </Link>
+                <Link
                     className="mobile-nav-link"
                     to="https://github.com/D-Whipp"
                     target="_blank"
                 >
                     Github
-                </div>
-                <div
+                </Link>
+                <Link
                     className="mobile-nav-link"
                     to="https://www.linkedin.com/in/david-w-079841213/"
                     target="_blank"
                 >
                     LinkedIn
-                </div>
+                </Link>
             </div>
         </>
     );
