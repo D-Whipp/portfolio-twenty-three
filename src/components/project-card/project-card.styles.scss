@@ -71,6 +71,7 @@
 
 .info-card-container:hover {
     width: 500px;
+    // height: 500px;
     overflow: hidden;
     border-radius: 100px 25px 50px 100px;
     transition: all 1s ease-out;
@@ -148,6 +149,15 @@
     border-radius: 25px;
 }
 
-
-
+// ***** RESPONSIVE STYLING *****
+@media screen and (max-width: 400px) {
+    .info-card-container:hover {
+        // display: block;
+        // height: 500px;
+        // width: auto;
+        width: 500px;
+        margin-left: -190px;
+        padding-left: 0px;
+    }
+}
     
