@@ -19,7 +19,14 @@ const MobileNavigation = () => {
                 <div className="line-two"></div>
                 <div className="line-three"></div>
             </div>
-            <div className="mobile-navigation-container">
+
+            <div
+                className={
+                    mobileNavToggle
+                        ? 'mobile-navigation-container'
+                        : 'no-display'
+                }
+            >
                 <div className="mobile-nav-link" to="/">
                     About
                 </div>
