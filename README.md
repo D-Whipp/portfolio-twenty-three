@@ -10,16 +10,16 @@ This is my UPDATED Portfolio Website for the year 2023. This website houses ever
 
 ## Table of Contents
 
--   [Portfolio 23](#portfolio-23)
-    -   [Front-End SPA Web Application](#front-end-spa-web-application)
-    -   [Description](#description)
-    -   [Table of Contents](#table-of-contents)
-    -   [Purpose](#purpose)
-    -   [Usage](#usage)
-    -   [Technologies](#technologies)
-    -   [License](#license)
-    -   [About](#about)
-    -   [Badges](#badges)
+- [Portfolio 23](#portfolio-23)
+  - [Front-End SPA Web Application](#front-end-spa-web-application)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Purpose](#purpose)
+  - [Usage](#usage)
+  - [Technologies](#technologies)
+  - [License](#license)
+  - [About](#about)
+  - [Badges](#badges)
 
 ## Purpose
 
@@ -74,3 +74,4 @@ Let's make a connection! [LinkedIn](https://www.linkedin.com/in/david-w-07984121
 ![single page app](https://img.shields.io/badge/app-SinglePage-darkblue)
 ![portfolio](https://img.shields.io/badge/portfolio-website-darkblue)
 ![netlify deployment](https://img.shields.io/badge/netlify-deployment-darkblue)
+![imagekit cdn](https://img.shields.io/badge/cdn-imagekit-darkblue)

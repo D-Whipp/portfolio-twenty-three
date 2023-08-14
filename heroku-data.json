@@ -1,0 +1,47 @@
+[
+    {
+        "id": "9",
+        "name": "MVC Tech Blog",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-mvc-tech-blog.png?updatedAt=1690419300178",
+        "githubRepository": "https://github.com/D-Whipp/the-tech-blog",
+        "deployedSite": "https://stark-reef-58838.herokuapp.com/",
+        "technologyUsed": "HTML5, CSS3, JavaScript, Express, Handlebars, MySql2, Sequelize, Jest, and BCrypt.",
+        "briefExplanation": "Here I used the above technologies to build a Full Stack CMS style blog. You can create an account. Create and Delete your post as well."
+    },
+    {
+        "id": "10",
+        "name": "Sports Vibes",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-SportsVibes.png?updatedAt=1690419301647",
+        "githubRepository": "https://github.com/seanPatrickArnold/sports-vibes",
+        "deployedSite": "https://cryptic-hamlet-34193.herokuapp.com/",
+        "technologyUsed": "Sequelize, Express, MySQL2, and Handlebars",
+        "briefExplanation": "A group project where users can create and and link posts together. Other users can then upvote the linked posts based on correlation. My responsibilities included wireframing our website, researching and implenting a new."
+    },
+    {
+        "id": "12",
+        "name": "Budget Tracker",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-budget-tracker-screenshot.png?updatedAt=1690419301988",
+        "githubRepository": "https://github.com/D-Whipp/budget-tracker",
+        "deployedSite": "https://intense-ravine-29652.herokuapp.com/",
+        "technologyUsed": "Express, Mongoose, MongoDB, Javascript, and Service Worker",
+        "briefExplanation": "A progressive web application to help it's users keep track of their budget. This app was created to serve two purposes: A - to help it's users with their finances and B - to help me gain a better understanding of PWA's, Service Workers, Persisting Data, and MongoDB."
+    },
+    {
+        "id": "13",
+        "name": "Book Search Engine",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-book-search-eng.png?updatedAt=1690419301946",
+        "githubRepository": "https://github.com/D-Whipp/book-search-engine",
+        "deployedSite": "https://frozen-journey-26834.herokuapp.com/",
+        "technologyUsed": "MongoDB, Mongoose, Node, Express, and GraphQL",
+        "briefExplanation": "Given the HTML and CSS as starter code, I was tasked with writing the controllers for the Back End of this application."
+    },
+    {
+        "id": "14",
+        "name": "Star Talk",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/560-px-star-talk.png?updatedAt=1690419301568",
+        "githubRepository": "https://github.com/D-Whipp/star-talk",
+        "deployedSite": "https://obscure-woodland-80927.herokuapp.com/",
+        "technologyUsed": "MongoDB, Mongoose, Express, React, and GraphQL",
+        "briefExplanation": "An application made for the Outer Space enthusiast. Here at Star Talk you can express you opinions of everything Outer Space related. From Celestial Bodies to Pop Culture (as long as it's Space related) you can create posts talking about what interests you in Outer Space."
+    }
+]
