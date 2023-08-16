@@ -10,16 +10,16 @@ This is my UPDATED Portfolio Website for the year 2023. This website houses ever
 
 ## Table of Contents
 
-- [Portfolio 23](#portfolio-23)
-  - [Front-End SPA Web Application](#front-end-spa-web-application)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Purpose](#purpose)
-  - [Usage](#usage)
-  - [Technologies](#technologies)
-  - [License](#license)
-  - [About](#about)
-  - [Badges](#badges)
+-   [Portfolio 23](#portfolio-23)
+    -   [Front-End SPA Web Application](#front-end-spa-web-application)
+    -   [Description](#description)
+    -   [Table of Contents](#table-of-contents)
+    -   [Purpose](#purpose)
+    -   [Usage](#usage)
+    -   [Technologies](#technologies)
+    -   [License](#license)
+    -   [About](#about)
+    -   [Badges](#badges)
 
 ## Purpose
 
@@ -39,9 +39,11 @@ Once there you can:
 -   HTML5
 -   CSS3
 -   Sass
+-   JSON
 -   Javascript
 -   React
--   Netlify
+-   Netlify (Deployment)
+-   Imagekit.io (CDN)
 
 ## License
 
@@ -58,7 +60,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## About
 
 Hello, my name is David  
-You can email me at dwhipp88@gmail.com  
+You can email me at [dwhipp88@gmail.com](mailto:dwhipp88@gmail.com)  
 You can view my [github](https://github.com/D-Whipp).  
 Check out my [portfolio](https://splendid-ganache-f82581.netlify.app/).  
 Let's make a connection! [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
