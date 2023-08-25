@@ -18,6 +18,15 @@
         "briefExplanation": "Welcome to Tri-Health! This is a website I created for a fictional healthcare company under the direction of a Registered Nurse."
     },
     {
+        "id": "20",
+        "name": "jQuery Shopping List",
+        "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/Todo-App-Screenshot2.png?updatedAt=1693000122567",
+        "deployedSite": "https://d-whipp.github.io/list-app-jQuery/",
+        "githubRepository": "https://github.com/D-Whipp/list-app-jQuery",
+        "technologyUsed": "HTML5, CSS3, JavaScript, jQuery, and localStorage",
+        "briefExplanation": "This is a shopping list application written with HTML5, CSS3, JavaScript, and jQuery. It uses localStorage to persist the shopping list data."
+    },
+    {
         "id": "17",
         "name": "Knights Radiant List",
         "imageUrl": "https://ik.imagekit.io/dwimageKit/portfolio-twenty-three/project-images/knights-radiant.png?updatedAt=1690920858895",
