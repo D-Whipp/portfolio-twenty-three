@@ -43,6 +43,7 @@ const About = () => {
             </div>
             <Link to="https://github.com/D-Whipp" target="_blank">
                 <div className="avatar-image"></div>
+                <div className='certificate-image'></div>
             </Link>
         </div>
     );

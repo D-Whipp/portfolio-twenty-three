@@ -11,10 +11,21 @@
   background-position: center;
   background-repeat: no-repeat;
   border: 0.3rem solid #FCF304;
+  border-radius: 20%;
+  background-size: cover;
+  height: 80%;
+  width: 15rem;
+}
+.about-container .certificate-image {
+  background-image: url("https://ik.imagekit.io/dwimageKit/Continuing%20and%20Professional%20Education%20-%20Full%20Stack%20Web%20Development%20-%202022-03-23.png?updatedAt=1695083388271");
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 0.3rem solid #FCF304;
   border-radius: 50%;
   background-size: cover;
-  height: 100%;
-  width: 15rem;
+  height: 50%;
+  width: 10rem;
+  margin: 1rem auto;
 }
 .about-container .about-text {
   font-size: 0.9rem;
