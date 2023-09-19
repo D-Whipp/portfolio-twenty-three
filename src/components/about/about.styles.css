@@ -21,10 +21,10 @@
   background-position: center;
   background-repeat: no-repeat;
   border: 0.3rem solid #FCF304;
-  border-radius: 50%;
+  border-radius: 20%;
   background-size: cover;
-  height: 50%;
-  width: 10rem;
+  height: 15rem;
+  width: 100%;
   margin: 1rem auto;
 }
 .about-container .about-text {
